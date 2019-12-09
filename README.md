@@ -1,2 +1,2 @@
 # LittleMiddle
-A hyper casual game I made in high school with javascript. I am going to update it using swift and python. I will definitely make a change to the graphics and the visual style of the game.
+A hyper casual game I made in high school with javascript. The game keeps a score based on how many times a player chooses a set of squares with the smallest square in the middle.
